@@ -2,7 +2,7 @@
 
 ## This purpose of this report is to analyze the relationship between the Latitudinal positioning of a city and its weather
 
-### The following code utilizes an Open Weather Map API to gather weather data from over 5000 cities around the world.
+### The following code utilizes an Open Weather Map API to gather weather data from over 500 cities around the world.
 
 ### The data is cleaned and compiled into dataframes in three groupings:
 1. The world
